@@ -8,7 +8,7 @@ Streme.fun is **AI Agent** token launcher that deploys native streaming tokens (
 - Streme Demo Video: TBD
 
 ## Code Repositories
-**This is only one of the code repos for this project!** Here are all the Streme repos:
+**There are THREE code repos for this project!** Here are the Streme repos:
 
 - `streme-contracts` includes the contracts deployed as part of the Streme protocol. https://github.com/streme-fun/streme-contracts
 - `streme-frontend` includes the frontend ocde for the streme.fun website and Farcaster frames. https://github.com/streme-fun/streme-frontend
